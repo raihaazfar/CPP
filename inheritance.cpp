@@ -4,6 +4,7 @@
 //single is only one parent class and one child class
 //parent share hongein feautures and cild uses those features
 #include<iostream>
+#include<string>
 using namespace std;
 
 class Person{
